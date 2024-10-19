@@ -1,5 +1,5 @@
 # Capstone-Project
-I Maked 2 Projects in Capstone Project 1st-Whatsapp Group Chat Analysis 2nd-Costomer Segmentation.
+I Maked 2 Projects in Capstone Project 1st-Whatsapp Group Chat Analysis 2nd-Customer Segmentation.
 In Whatsapp Chat Analysis, I Performed 
 Step 1- Loading the chat data into python environment
 Step 2- Defining the specific function or methods for preprocessing the text data
